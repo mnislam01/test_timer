@@ -1,3 +1,10 @@
+## Check benchmark your functions while unit testing them
+
+Usecases:
+1. Problem solving
+2. Quick algorithm mockup
+
+
 ```Python
 import time
 import test_timer
