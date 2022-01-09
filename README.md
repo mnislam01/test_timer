@@ -1,3 +1,4 @@
+```Python
 import time
 import test_timer
 
@@ -17,11 +18,11 @@ class TestSrc(test_timer.BenchTestCase):
     def test_function_b(self):
         function_b()
 
-
 if __name__ == "__main__":
     test_timer.main()
+```
 
-
+```Bash
 test_function_a (__main__.TestSrc): 0:00:00.000052
 .
 test_function_b (__main__.TestSrc): 0:00:01.001192
@@ -30,3 +31,4 @@ test_function_b (__main__.TestSrc): 0:00:01.001192
 Ran 2 tests in 1.002s
 
 OK
+```
