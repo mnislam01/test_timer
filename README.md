@@ -4,8 +4,8 @@
 1. Problem solving. To quickly check different implementations and compare versions to find which one performs better.
 2. Quick algorithm mockup. Again, to quickly check different approaches and implementations and compare versions to find which one performs better.
 
-### What is does not provide insights about
-1. Overall performance score of your applications
+### What it does not provide insights about
+1. Overall performance score of your application.
 2. Algorithmic complexity.
 
 
