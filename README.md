@@ -43,3 +43,8 @@ Ran 2 tests in 1.002s
 
 OK
 ```
+
+### How to install:
+```Bash
+pip install test_timer
+```
